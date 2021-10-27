@@ -1,5 +1,9 @@
 
 h1 {
     color: rgb(185, 83, 0);
+    padding: 5px;
+    border: solid black 1px ;
+    border-radius: 10px;
+    background-color: black;
 }
 
